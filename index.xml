@@ -26,7 +26,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ridwanbejo.github.io/certification/</guid>
-      <description>Certification Currently, I am certified engineer as:
+      <description>Certification Currently, I am certified as:
  Google Cloud Platform - Cloud Digital Leader  </description>
     </item>
     
@@ -36,7 +36,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ridwanbejo.github.io/contacts/</guid>
-      <description>Contacts Work in progress.</description>
+      <description>Contacts You can reach me by online through:
+ E-Mail LinkedIn Github Medium Aku.dev Wordpress Instagram PicFair  </description>
     </item>
     
     <item>
@@ -45,7 +46,18 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ridwanbejo.github.io/my-projects/</guid>
-      <description>My Projects Work in progress.</description>
+      <description>My Projects I open some my personal projects in Github. You may access those projects here:
+ Ansible Modules for Sentry 10 -&amp;gt; click here Helm Charts for Jim Merioles Weather App -&amp;gt; click here My homepage powered by Hugo -&amp;gt; click here  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ridwanbejo.github.io/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ridwanbejo.github.io/publications/</guid>
+      <description>Publications You can access my publications for internal conference here:
+ A Study Review of Common Big Data Architecture for Small-medium Enterprise | EAI - European Union Digital Library | Proceeding Risk Analysis of Dutch Healthcare Company Information System | IOP Conference Series: Materials Science and Engineering, Volume 662, Issue 2 | Proceeding  </description>
     </item>
     
     <item>
@@ -63,7 +75,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ridwanbejo.github.io/about-me/</guid>
-      <description>Hi, I am Ridwan Fadjar Septian. I am a passionate IT Engineer who took specialization in software (backend) and cloud infrastructure engineering. I have hands-on experience for 8+ years.
+      <description>Hi, I am Ridwan Fadjar Septian. I am a passionate IT Engineer who took specialization in software (backend) and cloud infrastructure engineering. I have hands-on experience for 8+ years. Currently, I am living in Indonesia.
 I have interests in DevOps, cloud infrastructure development, high scalable systems, serverless computing, container orchestration, IT governance, IT security and many more. My favorite quote is: &amp;ldquo;Customer satisfaction is first priority&amp;rdquo;.
 Currently, I am working as Cloud Infrastructure Engineer at NiceDay Nederland B.</description>
     </item>
