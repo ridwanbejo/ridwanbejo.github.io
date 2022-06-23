@@ -12,65 +12,6 @@
     
     
     <item>
-      <title></title>
-      <link>https://ridwanbejo.github.io/achievements/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ridwanbejo.github.io/achievements/</guid>
-      <description>Achievements Work in progress.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://ridwanbejo.github.io/certification/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ridwanbejo.github.io/certification/</guid>
-      <description>Certification Currently, I am certified as:
- Google Cloud Platform - Cloud Digital Leader  </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://ridwanbejo.github.io/contacts/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ridwanbejo.github.io/contacts/</guid>
-      <description>Contacts You can reach me by online through:
- E-Mail LinkedIn Github Medium Aku.dev Wordpress Instagram PicFair  </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://ridwanbejo.github.io/my-projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ridwanbejo.github.io/my-projects/</guid>
-      <description>My Projects I open some my personal projects in Github. You may access those projects here:
- Ansible Modules for Sentry 10 -&amp;gt; click here Helm Charts for Jim Merioles Weather App -&amp;gt; click here My homepage powered by Hugo -&amp;gt; click here  </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://ridwanbejo.github.io/publications/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ridwanbejo.github.io/publications/</guid>
-      <description>Publications You can access my publications for internal conference here:
- A Study Review of Common Big Data Architecture for Small-medium Enterprise | EAI - European Union Digital Library | Proceeding Risk Analysis of Dutch Healthcare Company Information System | IOP Conference Series: Materials Science and Engineering, Volume 662, Issue 2 | Proceeding  </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://ridwanbejo.github.io/talks/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ridwanbejo.github.io/talks/</guid>
-      <description>Talks I used to be speaker in some meetup or conferences such as:
- Django Application Monitoring and Logging with Sentry, ELK (Elasticsearch, Logstash &amp;amp; Kibana) and Prometheus (Online). PyCon Indonesia Regular Talk - 2021 | Page | Slide Introduction to AWS SQS for Web Application Task Queue (Online). AWS User Group Indonesia Meetup - 2020 | Slide Introduction to DevOps (Online). CS Meetup by Ilmu Komputer UPI - 2020 | Slide Why Serverless?</description>
-    </item>
-    
-    <item>
       <title>About Me</title>
       <link>https://ridwanbejo.github.io/about-me/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -79,6 +20,69 @@
       <description>Hi, I am Ridwan Fadjar Septian. I am a passionate IT Engineer who took specialization in software (backend) and cloud infrastructure engineering. I have hands-on experience for 8+ years. Currently, I am living in Indonesia.
 I have interests in DevOps, cloud infrastructure development, high scalable systems, serverless computing, container orchestration, IT governance, IT security and many more. My favorite quote is: &amp;ldquo;Customer satisfaction is first priority&amp;rdquo;.
 Currently, I am working as Cloud Infrastructure Engineer at NiceDay Nederland B.</description>
+    </item>
+    
+    <item>
+      <title>Achievements</title>
+      <link>https://ridwanbejo.github.io/achievements/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ridwanbejo.github.io/achievements/</guid>
+      <description>I have completed some training or courses. Here they are.
+Training or Courses 2022
+ Google Cloud Skill Boost Badges Microsoft Learn Skill Badges Coursera - Site Reliability Engineering: Measuring and Managing Reliability by Google Cloud Coursera - Architecting with Google Kubernetes Engine Specialization by Google Cloud  2021
+ Dicoding - Architecting on AWS (Membangun Arsitektur Cloud di AWS) by Dicoding Indonesia Dicoding - Cloud Practitioner Essentials (Belajar Dasar AWS Cloud) by Dicoding Indonesia Redis University - RU301: Running Redis at Scale Redis University - RU330: Redis Security by Redis Lab Redis University - RU101: Introduction to Redis Data Structures by Redis Lab Udemy - (FREE) Linux Operating System Fundamentals by Linux Academy  2019</description>
+    </item>
+    
+    <item>
+      <title>Certification</title>
+      <link>https://ridwanbejo.github.io/certification/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ridwanbejo.github.io/certification/</guid>
+      <description>Currently, I am certified as:
+ Google Cloud Platform - Cloud Digital Leader  </description>
+    </item>
+    
+    <item>
+      <title>Contacts</title>
+      <link>https://ridwanbejo.github.io/contacts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ridwanbejo.github.io/contacts/</guid>
+      <description>You can reach me by online through:
+ E-Mail LinkedIn Github Medium Aku.dev Wordpress  If you are interested to my photography works, reach me through:
+ Instagram PicFair Photocrowd  </description>
+    </item>
+    
+    <item>
+      <title>My Projects</title>
+      <link>https://ridwanbejo.github.io/my-projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ridwanbejo.github.io/my-projects/</guid>
+      <description>I open some my personal projects in Github. You may access those projects here:
+ Ansible Modules for Sentry 10 -&amp;gt; click here Helm Charts for Jim Merioles Weather App -&amp;gt; click here My homepage powered by Hugo -&amp;gt; click here  </description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://ridwanbejo.github.io/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ridwanbejo.github.io/publications/</guid>
+      <description>You can access my publications for internal conference here:
+ A Study Review of Common Big Data Architecture for Small-medium Enterprise | EAI - European Union Digital Library | Proceeding Risk Analysis of Dutch Healthcare Company Information System | IOP Conference Series: Materials Science and Engineering, Volume 662, Issue 2 | Proceeding  </description>
+    </item>
+    
+    <item>
+      <title>Talks</title>
+      <link>https://ridwanbejo.github.io/talks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ridwanbejo.github.io/talks/</guid>
+      <description>I used to be speaker in some meetup or conferences such as:
+ Django Application Monitoring and Logging with Sentry, ELK (Elasticsearch, Logstash &amp;amp; Kibana) and Prometheus (Online). PyCon Indonesia Regular Talk - 2021 | Page | Slide Introduction to AWS SQS for Web Application Task Queue (Online). AWS User Group Indonesia Meetup - 2020 | Slide Introduction to DevOps (Online). CS Meetup by Ilmu Komputer UPI - 2020 | Slide Why Serverless?</description>
     </item>
     
   </channel>
