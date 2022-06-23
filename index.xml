@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RidwanBejo Dev</title>
+    <link>https://ridwanbejo.github.io/</link>
+    <description>Recent content on RidwanBejo Dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© ridwanbejo 2022</copyright>
+    
+	<atom:link href="https://ridwanbejo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://ridwanbejo.github.io/achievements/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ridwanbejo.github.io/achievements/</guid>
+      <description>Achievements Work in progress.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ridwanbejo.github.io/certification/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ridwanbejo.github.io/certification/</guid>
+      <description>Certification Work in progress.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ridwanbejo.github.io/my-projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ridwanbejo.github.io/my-projects/</guid>
+      <description>My Projects Work in progress.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ridwanbejo.github.io/talks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ridwanbejo.github.io/talks/</guid>
+      <description>Talks Work in progress.</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://ridwanbejo.github.io/about-me/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ridwanbejo.github.io/about-me/</guid>
+      <description>Hi, I am Ridwan Fadjar Septian. I am a passionate IT Engineer who took specialization in software (backend) and cloud infrastructure engineering. I have hands-on experience for 8+ years.
+I have interests in DevOps, cloud infrastructure development, high scalable systems, serverless computing, container orchestration, IT governance, IT security and many more. My favorite quote is: &amp;ldquo;Customer satisfaction is first priority&amp;rdquo;.
+During my career, I am working with these tools and services mostly:</description>
+    </item>
+    
+  </channel>
+</rss>
