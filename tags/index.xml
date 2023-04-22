@@ -6,10 +6,6 @@
     <description>Recent content in Tags on RidwanBejo Dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© ridwanbejo 2022</copyright>
-    
-	<atom:link href="https://ridwanbejo.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>© ridwanbejo 2022</copyright><atom:link href="https://ridwanbejo.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
