@@ -55,8 +55,9 @@ Github Medium </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ridwanbejo.github.io/my-projects/</guid>
-      <description>I open some my personal projects in Github. You may access those projects here:
-Ansible Modules for Sentry 10 -&amp;gt; click here Helm Charts for Jim Merioles Weather App -&amp;gt; click here My homepage powered by Hugo -&amp;gt; click here </description>
+      <description>I open some my personal projects in Github. You may access those projects here.
+2023:
+terraform-airflow-config - Terraform module for managing Apache Airflow Variables, Pools and Connections -&amp;gt; click here terraform-airflow-user - Terraform module for managing Apache Airflow Users and Roles -&amp;gt; click here terraform-iam-user-group - Terraform module for managing AWS IAM Users, Roles, Policies and Groups -&amp;gt; click here Plausible - Python API Wrapper for Plausible API -&amp;gt; click here Kubus - Kubernetes security scanner prototype based on CIS benchmark -&amp;gt; click here 2022:</description>
     </item>
     
     <item>
@@ -76,7 +77,7 @@ A Study Review of Common Big Data Architecture for Small-medium Enterprise | EAI
       
       <guid>https://ridwanbejo.github.io/talks/</guid>
       <description>I used to be speaker in some meetup or conferences such as:
-Django Application Monitoring and Logging with Sentry, ELK (Elasticsearch, Logstash &amp;amp; Kibana) and Prometheus (Online). PyCon Indonesia Regular Talk - 2021 | Page | Slide Introduction to AWS SQS for Web Application Task Queue (Online). AWS User Group Indonesia Meetup - 2020 | Slide Introduction to DevOps (Online). CS Meetup by Ilmu Komputer UPI - 2020 | Slide Why Serverless?</description>
+Cloud Infrastructure Engineer vs SRE. Alchemy x DKatalis online meetup - 2023 Cloud Infrastructure Automation with Python. BandungPy Offline Meetup - 2023 | Page Django Application Monitoring and Logging with Sentry, ELK (Elasticsearch, Logstash &amp;amp; Kibana) and Prometheus (Online). PyCon Indonesia Regular Talk - 2021 | Page | Slide Introduction to AWS SQS for Web Application Task Queue (Online).</description>
     </item>
     
   </channel>
