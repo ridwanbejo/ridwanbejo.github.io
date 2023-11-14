@@ -57,7 +57,7 @@ Github Medium </description>
       <guid>https://ridwanbejo.github.io/my-projects/</guid>
       <description>I open some my personal projects in Github. You may access those projects here.
 2023:
-terraform-airflow-config - Terraform module for managing Apache Airflow Variables, Pools and Connections -&amp;gt; click here terraform-airflow-user - Terraform module for managing Apache Airflow Users and Roles -&amp;gt; click here terraform-iam-user-group - Terraform module for managing AWS IAM Users, Roles, Policies and Groups -&amp;gt; click here Plausible - Python API Wrapper for Plausible API -&amp;gt; click here Kubus - Kubernetes security scanner prototype based on CIS benchmark -&amp;gt; click here 2022:</description>
+terraform-airflow-config - Terraform module for managing Apache Airflow Variables, Pools and Connections -&amp;gt; click here terraform-airflow-user - Terraform module for managing Apache Airflow Users and Roles -&amp;gt; click here terraform-aws-iam-user-group - Terraform module for managing AWS IAM Users, Roles, Policies and Groups -&amp;gt; click here Plausible - Python API Wrapper for Plausible API -&amp;gt; click here Kubus - Kubernetes security scanner prototype based on CIS benchmark -&amp;gt; click here 2022:</description>
     </item>
     
     <item>
