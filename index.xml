@@ -56,8 +56,9 @@ Github Medium </description>
       
       <guid>https://ridwanbejo.github.io/my-projects/</guid>
       <description>I open some my personal projects in Github. You may access those projects here.
-2023:
-terraform-airflow-config - Terraform module for managing Apache Airflow Variables, Pools and Connections -&amp;gt; click here terraform-airflow-user - Terraform module for managing Apache Airflow Users and Roles -&amp;gt; click here terraform-aws-iam-user-group - Terraform module for managing AWS IAM Users, Roles, Policies and Groups -&amp;gt; click here Plausible - Python API Wrapper for Plausible API -&amp;gt; click here Kubus - Kubernetes security scanner prototype based on CIS benchmark -&amp;gt; click here 2022:</description>
+2024:
+terraform-grafana-iam - Terraform module for managing Grafana Config such as user and service account -&amp;gt; click here terraform-grafana-config - Terraform module for managing Grafana Config such as organization, organization preferences and data source -&amp;gt; click here 2023:
+terraform-influxdb-admin - Terraform module for managing InfluxDB database, user and continuous query -&amp;gt; click here terraform-opensearch-admin - Terraform module for managing OpensSearch user, role, cluster setting and audit config -&amp;gt; click here terraform-postgresql-admin - Terraform module for managing PostgreSQL role, database, schema, grant, extension and many more -&amp;gt; click here terraform-mongodb-user - Terraform module for managing MongoDB users and roles -&amp;gt; click here terraform-mysql-admin - Terraform module for managing MySQL users, grants and databases -&amp;gt; click here terraform-airflow-config - Terraform module for managing Apache Airflow Variables, Pools and Connections -&amp;gt; click here terraform-airflow-user - Terraform module for managing Apache Airflow Users and Roles -&amp;gt; click here terraform-aws-iam-user-group - Terraform module for managing AWS IAM Users, Roles, Policies and Groups -&amp;gt; click here Plausible - Python API Wrapper for Plausible API -&amp;gt; click here Kubus - Kubernetes security scanner prototype based on CIS benchmark -&amp;gt; click here 2022:</description>
     </item>
     
     <item>
@@ -77,7 +78,7 @@ A Study Review of Common Big Data Architecture for Small-medium Enterprise | EAI
       
       <guid>https://ridwanbejo.github.io/talks/</guid>
       <description>I used to be speaker in some meetup or conferences such as:
-Cloud Infrastructure Engineer vs SRE. Alchemy x DKatalis online meetup - 2023 Cloud Infrastructure Automation with Python. BandungPy Offline Meetup - 2023 | Page Django Application Monitoring and Logging with Sentry, ELK (Elasticsearch, Logstash &amp;amp; Kibana) and Prometheus (Online). PyCon Indonesia Regular Talk - 2021 | Page | Slide Introduction to AWS SQS for Web Application Task Queue (Online).</description>
+Build A Security Scanner for Kubernetes Based on CIS Benchmark with Python3 Standard Library. PyCon Indonesia Regular Talk - 2023 | Page | Slide Cloud Infrastructure Engineer vs SRE. Alchemy x DKatalis online meetup - 2023 | Page Cloud Infrastructure Automation with Python. BandungPy Offline Meetup - 2023 | Page | Slide Django Application Monitoring and Logging with Sentry, ELK (Elasticsearch, Logstash &amp;amp; Kibana) and Prometheus (Online).</description>
     </item>
     
   </channel>
