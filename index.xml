@@ -57,7 +57,7 @@ Github Medium </description>
       <guid>https://ridwanbejo.github.io/my-projects/</guid>
       <description>I open some my personal projects in Github. You may access those projects here.
 2024:
-terraform-kubernetes-storage - Terraform module for managing Kubernetes storage class and CSI driver -&amp;gt; click here terraform-kubernetes-iam - Terraform module for managing Kubernetes service account, token, and other IAM functionalities -&amp;gt; click here terraform-kubernetes-namespace - Terraform module for managing Kubernetes namespace and resource quota -&amp;gt; click here terraform-grafana-iam - Terraform module for managing Grafana Config such as user and service account -&amp;gt; click here terraform-grafana-config - Terraform module for managing Grafana Config such as organization, organization preferences and data source -&amp;gt; click here 2023:</description>
+terraform-netbox-auth - Terraform module for managing Netbox auth functionalities | click here terraform-cassandra-admin - Terraform module for managing Cassandra role, grant and database | click here terraform-kubernetes-storage - Terraform module for managing Kubernetes storage class and CSI driver | click here terraform-kubernetes-iam - Terraform module for managing Kubernetes service account, token, and other IAM functionalities | click here terraform-kubernetes-namespace - Terraform module for managing Kubernetes namespace and resource quota | click here terraform-grafana-iam - Terraform module for managing Grafana Config such as user and service account | click here terraform-grafana-config - Terraform module for managing Grafana Config such as organization, organization preferences and data source | click here 2023:</description>
     </item>
     
     <item>
